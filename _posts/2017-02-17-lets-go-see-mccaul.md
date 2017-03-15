@@ -4,7 +4,7 @@ title: CALL TO ACTION - Let's Go See McCaul
 #meta-title: Let's Go See McCaul
 subtitle: A Week of Office Visits on February 20th - 24th, 2017
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
-tags: [front, action-alert]
+tags: [action-alert]
 share-img: /img/site-logo-borderless.png
 ---
 
