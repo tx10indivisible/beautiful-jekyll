@@ -7,7 +7,7 @@ subtitle: CALL TO ACTION – Ask Congressman McCaul to Make Public Statement on 
 tags: [front,action-alert]
 share-img: /img/site-logo-borderless.png
 ---
-The AHCA is dead, but some questions still need answering. A lot of McCaul's constituents heard from staffers that he was "leaning towards yes," but as far as we know, he has yet to make a public statement on the matter. This divisive, reckless bill was pulled without a vote specifically to spare House Republicans the political fallout of taking an unpopular position. Even though he was likely to obey the Trump administration, McCaul may be hoping that by never fully committing one way or the other, he can keep the AHCA from becoming an issue in future elections. Let's let him know that concealing his intentions from his constituents has a political price too!
+The AHCA is dead, but some questions still need answering. A lot of McCaul's constituents heard from staffers that he was "leaning towards yes," but as far as we know, he has yet to make a public statement on the matter. This divisive, reckless bill was pulled without a vote specifically to spare House Republicans the political fallout of taking an unpopular position. Even though he was likely to obey the Trump administration, McCaul may be hoping that by never fully committing one way or the other, he can keep the AHCA from becoming an issue in future elections. Let's let him know that concealing his intentions from his constituents has a political price too! 
 
 **CALL REP. MCCAUL'S OFFICES AND DEMAND THAT HE MAKE A PUBLIC STATEMENT ON HIS POSITION ON AHCA!**
 
