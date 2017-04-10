@@ -21,9 +21,9 @@ Since this is a mock town hall, write a letter that you’d read at a McCaul’s
 
 ## WHERE
 
-Rep. Michael McCaul’s Austin Office
-9009 Mountain Ridge Drive
-Austin Building, Suite 230
+Rep. Michael McCaul’s Austin Office\\
+9009 Mountain Ridge Drive\\
+Austin Building, Suite 230\\
 Austin, TX 78759
 
 We’ll meet in the office park parking lot at NOON promptly. Just an FYI: It’s a corporate office park off 360, so it’s a bit hidden. There is plenty of parking in the building lot and on the street.
