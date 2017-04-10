@@ -9,7 +9,7 @@ share-img: /img/site-logo-borderless.png
 ---
 We're holding an IN PERSON- MOCK TOWN HALL at Rep McCaul’s Austin Office - TUESDAY APRIL 11th, 2017 @ NOON - 1:30PM
 
-For more info and RSVP see the [Facebook even](https://www.facebook.com/events/1434772543497184/)
+For more info and RSVP see the [Facebook event](https://www.facebook.com/events/1434772543497184/)
 
 ## TOPIC
 
