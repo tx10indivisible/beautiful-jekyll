@@ -22,11 +22,6 @@ Austin Building Suite 230\\
 Austin, Texas 78759\\
 [Facebook Event Details](https://www.facebook.com/events/1252512828202455/)
 
-If you cannot attend, support our in-person action by amplifying the message that Trump's tax returns should be released with your phone calls. HE MUST be held accountable.
-
-**CALL Congressman McCAUL and DEMAND HE ANSWER OUR QUESTIONS ABOUT THE BUDGET PRIORITIES AND TRUMP'S TAX RETURNS!**
-
-
 ## SAMPLE SCRIPT
 >Hello, my name is &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95; and I am a constituent of Representative McCaul's. I’m asking that he drop his sponsorship of HR637, support strong environmental protections, and to take seriously the threat of global climate change.
 
