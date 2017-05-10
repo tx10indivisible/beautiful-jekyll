@@ -4,7 +4,7 @@ title: Sessions Lied About Russian Contacts
 #meta-title: Let's Go See McCaul
 subtitle: URGENT CALL TO ACTION – CALL CRUZ/CORNYN FOR INDEPENDENT COUNCIL
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
-tags: [front,action-alert]
+tags: [action-alert]
 share-img: /img/site-logo-borderless.png
 ---
 The Washington Post has reported that Attorney General Jeff Sessions misled the Senate during his confirmation hearing about having contact with Russia as a Trump campaign surrogate. Since he is now tainted by his conduct, a special prosecutor must be named to get to the bottom of the Trump administration’s many questionable ties to Russia. Sen. Lindsay Graham has already called for a special prosecutor and other Republicans may be on the verge of following suit--**LET'S PUT THE PRESSURE ON!**

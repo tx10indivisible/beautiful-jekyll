@@ -4,7 +4,7 @@ title: Demand an Independent Investigation into Trump and Russia
 #meta-title: Let's Go See McCaul
 subtitle: CALL TO ACTION – TELL SENATOR CRUZ TO INVESTIGATE TRUMP’S TIES TO RUSSIA
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
-tags: [front,action-alert]
+tags: [action-alert]
 share-img: /img/site-logo-borderless.png
 ---
 Russian intelligence illegally interfered in the American Presidential election on behalf of the Trump campaign while Trump surrogates where meeting with Russian officials. Some of these surrogates have since lied about these contacts under oath.

@@ -4,7 +4,7 @@ title: Non-Partisan CBO Report Projects the Real AHCA Impact!
 #meta-title: Let's Go See McCaul
 subtitle: CALL TO ACTION – REMIND MCCAUL TO LISTEN TO THE CBO REPORT ON AHCA!
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
-tags: [front,action-alert]
+tags: [action-alert]
 share-img: /img/site-logo-borderless.png
 ---
 In his "tele-town hall" last week, Rep. McCaul specifically said that he would take the upcoming CBO report into consideration... now it's out, so let's follow up with him!

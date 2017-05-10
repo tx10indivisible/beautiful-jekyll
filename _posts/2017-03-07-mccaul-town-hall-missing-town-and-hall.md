@@ -4,7 +4,7 @@ title: McCaul’s Telephone Town Hall is Missing Both the Town and the Hall
 #meta-title: Let's Go See McCaul
 subtitle: CALL TO ACTION – REGISTER FOR McCAUL'S TOWN HALL
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
-tags: [front,action-alert]
+tags: [action-alert]
 share-img: /img/site-logo-borderless.png
 ---
 Michael McCaul has announced a so-called "telephone town hall" for Wednesday evening at 7:00PM. We need to take this opportunity to engage with our representative and remind him that thousands of us are dedicated to holding him accountable.
