@@ -33,6 +33,6 @@ Washington, DC office: 202-224-5922
 
 ## ADDITIONAL RESOURCES
 
-* [Comey’s removal sparks fears about future of Russia probe](https://www.washingtonpost.com/world/national-security/comeys-removal-sparks-fears-about-future-of-russia-probe/2017/05/09/013d9ade-3507-11e7-b412-62beef8121f7_story.html?utm_term=.21970240778a)
+* [Comey's removal sparks fears about future of Russia probe](https://www.washingtonpost.com/world/national-security/comeys-removal-sparks-fears-about-future-of-russia-probe/2017/05/09/013d9ade-3507-11e7-b412-62beef8121f7_story.html)
 
 **#StandIndivisible**
