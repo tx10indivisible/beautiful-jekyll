@@ -4,7 +4,7 @@ title: Support an Independent Evaluation of the Proposed Republican Healthcare B
 #meta-title: Let's Go See McCaul
 subtitle: CALL TO ACTION – CALL MCCAUL TO ASK HIM TO ELIMINATE CBO FROM HEALTHCARE BILL SCORING
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
-tags: [front,action-alert]
+tags: [action-alert]
 share-img: /img/site-logo-borderless.png
 ---
 After the release of the AHCA earlier this week, many are waiting to hear the scoring of the bill by the Congressional Budget Office (CBO). However, Republicans are moving to involve Mick Mulvaney, head of the Office of Management and Budget, in scoring. What this means is that scoring would be done by an office directly under Trump instead of an independent, non-partisan entity like the CBO. Obviously, Republicans are fearful that the CBO will expose the AHCA's negative impact on the national budget and health coverage for millions of Americans.

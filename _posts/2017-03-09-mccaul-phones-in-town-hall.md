@@ -4,7 +4,7 @@ title: McCaul Phone's It In for his Telephone Town Hall
 #meta-title: Let's Go See McCaul
 subtitle: CALL TO ACTION – CALL MCCAUL TO LET HIM KNOW YOUR OPINION OF HIS TELEPHONE TOWN HALL
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
-tags: [front,action-alert]
+tags: [action-alert]
 share-img: /img/site-logo-borderless.png
 ---
 Last night Representative McCaul literally "phoned it in" and insulted his constituents by holding a so-called *telephone town hall*, but not allowing them to ask any real questions.

@@ -4,7 +4,7 @@ title: Stop Acts of Racial and Religious Intolerance
 #meta-title: Let's Go See McCaul
 subtitle: CALL TO ACTION – CALL MCCAUL TO STOP DOMESTIC TERRORISM
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
-tags: [front,action-alert]
+tags: [action-alert]
 share-img: /img/site-logo-borderless.png
 ---
 Last week, Indian immigrant Srinivas Kuchibhotla was gunned down in a Kansas sports bar by a man who yelled, “Get out of my country” before he started shooting. On Monday, 19 Jewish community centers and day schools across the country received bomb threats. Since the election of Donald Trump, there has been a dramatic uptick in bomb threats, arson, other racially motivated crimes across the country. As chairman of the Homeland Security Committee, issues of terrorism and public safety fit squarely into Michael McCaul’s purview, but he has yet to even acknowledge this growing problem.

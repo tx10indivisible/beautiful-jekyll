@@ -4,7 +4,7 @@ title: Share your Disproval of the Proposed Obamacare Replacement
 #meta-title: Let's Go See McCaul
 subtitle: CALL TO ACTION – TELL MCCAUL TO VOTE &quot;NO&quot; ON OBAMACARE REPLACEMENT
 #meta-description: CALL TO ACTION - February 20th - 24th, 2017
-tags: [front,action-alert]
+tags: [action-alert]
 share-img: /img/site-logo-borderless.png
 ---
 Call Representative McCaul to commend his support of childhood cancer treatment, but **demand that he vote NO on the Obamacare replacement** so that families can afford the treatment he champions.
