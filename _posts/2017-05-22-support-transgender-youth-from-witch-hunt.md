@@ -1,33 +1,30 @@
 ---
 layout: post
-title: STOP THE FCC FROM DESTROYING AN OPEN INTERNET!
-subtitle: TELL MCCAUL TO FIGHT FOR NET NEUTRALITY!
+title: SUPPORT TRANSGENDER YOUTH AGAINST WITCH HUNT!
+subtitle: TELL DAN PATRICK TO STOP HIS BATHROOM BILL!
 tags: [front,action-alert]
 share-img: /img/site-logo-borderless.png
 ---
 
-The Federal Communications Commission voted along party lines (2-1) on Thursday to begin unraveling the net neutrality regulations put in place in 2015 under President Obama. These regulations have been some of the most strict to date to ensure the internet remains a resource that does not favor particular companies which have the ability to pay for higher speeds and more attention towards their websites.
+Amid threats by Lieutenant Governor Dan Patrick of a special legislative session over the “bathroom bill,” the Texas House on Sunday took a last-minute vote and approved a proposal that would keep transgender students from using school bathrooms in line with their gender identity.
 
-The FCC's Chairman, Ajit Pai, is strongly in favor of this big-business friendly approach. What needs to be voiced by constituents country-wide, are concerns about the effect these looser regulations will have on the consumer and on small-business enterprises.
+Lt. Gov. Dan Patrick is hell-bent on making transgender kids into scary villains. His witch hunt against them is wrong and abusive. In North Carolina a similar wrong-headed attack on transgender people backfired – expensively – for former Governor Pat McCrory. Even with the history of legal and financial losses, Patrick continues his obsession, ignoring the voices of Texas’s business, civic and education leaders about sensible, proven ways to protect everyone’s privacy in restrooms.
 
-**CALL Representative McCAUL and urge him to reject looser regulations and express your belief that the internet should remain free and open.**
+There is no reason to target transgender people and prevent them from using the restroom which conforms to their gender identity other than plain meanness and to score cheap political points with bigots.
+
+**CALL Lieutenant Governor Patrick and tell him that Texas is a friendly state that believes in limited government and that it’s not any business of his to dictate to schools what their transgender bathroom policy should be.**
 
 ## SAMPLE SCRIPT
 
->Hello, my name is &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95; and I am a constituent of Representative McCaul. I am calling to express my deep concern about the effect rolling back net neutrality regulations will have on consumers as well as small businesses. Loosening the regulatory framework of the internet would have lasting and consequential effects that would strongly favor big business and monied interests. I urge Representative McCaul to stand firm against the regulatory rollback. Thank you.
+>Hello, my name is &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95; and I am a citizen of Texas. I am calling to express my disgust with Lieutenant Governor Patrick and his witch hunt against transgender youth. Things are hard enough for these kids and it’s shameful to use them as a political punching bag. Our school administrators know far more about their schools than he does and he shouldn’t interfere with local control and decision making regarding how best to serve all their students including the transgender ones.
 
 ## CONTACT INFO:
 
-**Rep. Michael McCaul**\\
-D.C. office: (202) 225-2401\\
-Austin office: (512) 473-2357\\
-Katy office: (281) 398-1247\\
-Tomball office: (281) 255-8372\\
-Brenham office: (979) 830-8497
+**Lieutenant Governor Dan Patrick**\\
+(512)-463-0001
 
 ## ADDITIONAL RESOURCES
 
-* [FCC Votes To Begin Rollback Of Net Neutrality Regulations](http://www.npr.org/sections/thetwo-way/2017/05/18/528941897/fcc-votes-to-begin-rollback-of-net-neutrality-regulations)
-* [FCC votes to start rolling back landmark net neutrality rules](https://www.washingtonpost.com/news/the-switch/wp/2017/05/18/fcc-votes-to-start-rolling-back-landmark-net-neutrality-rules/?utm_term=.85a7f27e4058)
+* [Texas House approves bathroom restrictions for transgender students](https://www.texastribune.org/2017/05/21/amid-special-session-threat-house-eyes-bathroom-restrictions-schools/)
 
 **#StandIndivisible**
