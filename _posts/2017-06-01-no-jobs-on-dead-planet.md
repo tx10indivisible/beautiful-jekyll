@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TELL TED CRUZ AND JOHN CORNYN: NO JOBS ON A DEAD PLANET!
+title: TELL TED CRUZ AND JOHN CORNYN - NO JOBS ON A DEAD PLANET!
 subtitle: CALL YOUR SENATORS TO DEMAND THEY SUPPORT THE PARIS CLIMATE ACCORD!
 tags: [front,action-alert]
 share-img: /img/site-logo-borderless.png
