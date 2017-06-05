@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CBO: 23 MILLION WOULD LOSE INSURANCE! SAY NO!
+title: CBO - 23 MILLION WOULD LOSE INSURANCE! SAY NO!
 subtitle: CALL YOUR SENATORS AND YOUR HOUSE REP TODAY!
 tags: [front,action-alert]
 share-img: /img/site-logo-borderless.png
