@@ -17,7 +17,7 @@ The GOP may want to forget the devastating financial crisis that crashed the eco
 **Senator John Cornyn**\\
 D.C. Office (202) 224-2934\\
 Austin Office (512) 469-6034\\
-Tyler Office (903)593-0902\\
+Tyler Office (903)593-0902
 
 **Senator Ted Cruz**\\
 D.C. Office (202) 224-5922\\
