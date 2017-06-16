@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TELL MICHAEL MCCAUL: NO MORE UNNECESSARY DEATHS FROM GUN VIOLENCE
+title: TELL MICHAEL MCCAUL - NO MORE UNNECESSARY DEATHS FROM GUN VIOLENCE
 subtitle: TAKE ACTION NOW!
 tags: [front,action-alert]
 share-img: /img/site-logo-borderless.png
